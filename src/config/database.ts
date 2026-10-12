@@ -1,1 +1,0 @@
-gerenciar a conexão PostgreSQL
