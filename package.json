@@ -2,10 +2,10 @@
   "name": "agente-atendimentos-whatsapp-001",
   "version": "1.0.0",
   "description": "Agente de IA autonomo Rafinha Garimpo Network",
-  "main": "dist/server.js",
+  "main": "dist/src/server.js",
   "scripts": {
     "build": "tsc",
-    "start": "node dist/server.js",
+    "start": "node dist/src/server.js",
     "dev": "ts-node-dev --respawn --transpile-only src/server.ts"
   },
   "dependencies": {
